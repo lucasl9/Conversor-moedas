@@ -63,7 +63,7 @@ function changeCurrency(){
     }
 
     if(currencySelect.value == "dolar"){
-        currencyName.innerHTML = "Dolar Americano"
+        currencyName.innerHTML = "Dólar Americano"
        currencyImage.src = "./assets/dolar.png"
         
     }
